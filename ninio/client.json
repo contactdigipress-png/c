@@ -1,0 +1,33 @@
+{
+  "name": "Ninio",
+  "slug": "ninio",
+  "activity": "Ninios",
+  "slogan": "Parfait",
+  "description": "loki",
+  "services": [
+    "LOKI1",
+    "LOKI2",
+    "LOKI3"
+  ],
+  "phone": "",
+  "whatsapp": "",
+  "email": "",
+  "website": "",
+  "address": "10 Rue Euchkil la soukra",
+  "map": "",
+  "hours": "",
+  "facebook": "",
+  "instagram": "",
+  "linkedin": "",
+  "tiktok": "",
+  "color": "#ff99e9",
+  "template": "dark",
+  "lang": "fr",
+  "images": {
+    "logo": "logo.webp",
+    "photos": [
+      "photo1.webp"
+    ]
+  },
+  "updatedAt": "2026-11-18T22:56:00.595Z"
+}
