@@ -25,17 +25,17 @@
   ],
   "phone": "",
   "whatsapp": "",
-  "email": "contact.gigipress@gmail.com",
+  "email": "contact.digipress@gmail.com",
   "website": "",
   "address": "14 bis Ain El Karma La soukra",
   "map": "",
-  "hours": "",
+  "hours": "Lundi à Vendredi : 8H00 à 17H00\nSamedi : 8H00 à 12H30",
   "facebook": "",
   "instagram": "",
   "linkedin": "",
   "tiktok": "",
-  "color": "#18ecd3",
-  "template": "modern",
+  "color": "#68928d",
+  "template": "dark",
   "lang": "fr",
   "images": {
     "logo": "logo.webp",
@@ -44,5 +44,5 @@
       "photo2.webp"
     ]
   },
-  "updatedAt": "2026-11-18T22:44:15.151Z"
+  "updatedAt": "2026-11-18T22:47:45.638Z"
 }
